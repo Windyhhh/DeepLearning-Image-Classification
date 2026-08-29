@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧠 DeepLearning-Image-Classification
+# 深度学习图像分类 | DeepLearning-Image-Classification
 
 ### From theory to practice — CNN / ResNet image classification.
 
